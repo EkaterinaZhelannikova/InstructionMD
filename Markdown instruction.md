@@ -31,3 +31,11 @@
 
 > Единственная правота – доброта
 
+## Ссылки
+
+Это встроенная [ссылка](https://rutube.ru/channel/25121656/).
+
+А вот [пример][1]  [ссылок][2] с разметкой как у сносок.
+
+[1]: https://vjoy.cc/wp-content/uploads/2021/02/637018e20cd044f197cd7eafc9ceb46e.jpg
+[2]: https://vjoy.cc/wp-content/uploads/2021/02/7917da40b4b50aea9ed80f1477c7f861.jpg
